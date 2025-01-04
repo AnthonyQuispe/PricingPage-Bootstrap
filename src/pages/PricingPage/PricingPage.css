@@ -1,0 +1,31 @@
+.bg-custom {
+  background-color: #f5f5f9 !important;
+}
+
+.title-custom {
+  color: #241e4c !important;
+}
+
+.custom-buttons {
+  background-color: #f5f5f9 !important;
+  border: none;
+}
+.custom-buttons--active {
+  background-color: #868ee6 !important;
+  color: #f5f5f9;
+}
+
+.custom-card--active {
+  background-color: #868ee6 !important;
+  color: #f5f5f9 !important;
+}
+
+.custom-buttons--active:hover {
+  background-color: #f5f5f9 !important;
+  color: #868ee6 !important;
+  border: 2px solid #868ee6 !important;
+}
+.custom-buttons--time {
+  background-color: #868ee6 !important;
+  color: #f5f5f9;
+}
