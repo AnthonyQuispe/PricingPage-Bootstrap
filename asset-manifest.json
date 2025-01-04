@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PricingPage-Bootstrap/static/css/main.8dc5a655.css",
+    "main.js": "/PricingPage-Bootstrap/static/js/main.1c6e7965.js",
+    "index.html": "/PricingPage-Bootstrap/index.html",
+    "main.8dc5a655.css.map": "/PricingPage-Bootstrap/static/css/main.8dc5a655.css.map",
+    "main.1c6e7965.js.map": "/PricingPage-Bootstrap/static/js/main.1c6e7965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dc5a655.css",
+    "static/js/main.1c6e7965.js"
+  ]
+}
